@@ -7,7 +7,7 @@
 
 2. Visual Studio Community インストール
   - [Visual Studio Community](https://www.visualstudio.com/ja-jp/downloads/download-visual-studio-vs#DownloadFamilies_2)をインストールしてください。
-  - **※最新のバージョンは Visual Studio Community 2015`ですが、Windows7 以下は対応していません。**   
+  - **※最新のバージョンは Visual Studio Community 2015 ですが、Windows7 以下は対応していません。**   
 なのでそれ以外の場合は Visual Studio Community 2013 をインストールしてください。
 
 3. Monaca for Visual Studio インストール
