@@ -20,7 +20,7 @@
   - 再起動後、Visual Studio メニュー上に Monaca メニューが追加されていれば完了です。
 
 4. Git から thaniya-lab をクローン
-  - SpurceTree などを使い、このリポジトリ ( thaniya-lab ) のクローンを作成します。
+  - SourceTree などを使い、このリポジトリ ( thaniya-lab ) のクローンを作成します。
 
 5. Thaniya-Lab. を起動
   - クローンしたディレクトリある `thaniya-lab.sln` をクリックします。(自動で Visual Studio が起動します。)
