@@ -78,7 +78,7 @@
     <Content Include="config.xml">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>11c35d26</hash>
+      <hash>4dc2ae9e</hash>
       <icon>
       </icon>
       <mime>text/xml</mime>
@@ -87,8 +87,7 @@
       <path>/config.xml</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635867592563887049</lastModified>
     </Content>
     <Content Include="ios\MonacaApp-Info.plist">
       <type>file</type>
@@ -765,95 +764,101 @@
       <lastModified>
       </lastModified>
     </Content>
-    <Content Include="www\index.html">
+    <Content Include="www\html\sample\navigator.html">
+      <SubType>Content</SubType>
       <type>file</type>
-      <deletable>True</deletable>
-      <hash>03a13fb4</hash>
+      <deletable>true</deletable>
+      <hash>5cd11ed3</hash>
       <icon>
       </icon>
-      <mime>text/html</mime>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample/navigator.html</path>
+      <remark>
+      </remark>
+      <lastModified>635867534466049473</lastModified>
+    </Content>
+    <Content Include="www\html\sample\new_page.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>5713709b</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample/new_page.html</path>
+      <remark>
+      </remark>
+      <lastModified>635867534466049473</lastModified>
+    </Content>
+    <Content Include="www\html\sample\page1.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>1dafb0d3</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample/page1.html</path>
+      <remark>
+      </remark>
+      <lastModified>635867534466059474</lastModified>
+    </Content>
+    <Content Include="www\html\sample\page2.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>dd21d932</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample/page2.html</path>
+      <remark>
+      </remark>
+      <lastModified>635867534466059474</lastModified>
+    </Content>
+    <Content Include="www\html\sample\page3.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>78aa493c</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample/page3.html</path>
+      <remark>
+      </remark>
+      <lastModified>635867534466059474</lastModified>
+    </Content>
+    <Content Include="www\index.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>c4bef9ef</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
       <os>
       </os>
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
-    </Content>
-    <Content Include="www\navigator.html">
-      <type>file</type>
-      <deletable>True</deletable>
-      <hash>8e92de6e</hash>
-      <icon>
-      </icon>
-      <mime>text/html</mime>
-      <os>
-      </os>
-      <path>/www/navigator.html</path>
-      <remark>
-      </remark>
-      <lastModified>
-      </lastModified>
-    </Content>
-    <Content Include="www\new_page.html">
-      <type>file</type>
-      <deletable>True</deletable>
-      <hash>6ca5f084</hash>
-      <icon>
-      </icon>
-      <mime>text/html</mime>
-      <os>
-      </os>
-      <path>/www/new_page.html</path>
-      <remark>
-      </remark>
-      <lastModified>
-      </lastModified>
-    </Content>
-    <Content Include="www\page1.html">
-      <type>file</type>
-      <deletable>True</deletable>
-      <hash>a3797caa</hash>
-      <icon>
-      </icon>
-      <mime>text/html</mime>
-      <os>
-      </os>
-      <path>/www/page1.html</path>
-      <remark>
-      </remark>
-      <lastModified>
-      </lastModified>
-    </Content>
-    <Content Include="www\page2.html">
-      <type>file</type>
-      <deletable>True</deletable>
-      <hash>ab81337b</hash>
-      <icon>
-      </icon>
-      <mime>text/html</mime>
-      <os>
-      </os>
-      <path>/www/page2.html</path>
-      <remark>
-      </remark>
-      <lastModified>
-      </lastModified>
-    </Content>
-    <Content Include="www\page3.html">
-      <type>file</type>
-      <deletable>True</deletable>
-      <hash>30f2d9af</hash>
-      <icon>
-      </icon>
-      <mime>text/html</mime>
-      <os>
-      </os>
-      <path>/www/page3.html</path>
-      <remark>
-      </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635867587331403331</lastModified>
     </Content>
     <Content Include="www\README.md">
       <type>file</type>
@@ -1169,6 +1174,34 @@
       </remark>
       <lastModified>
       </lastModified>
+    </Folder>
+    <Folder Include="www\html">
+      <type>dir</type>
+      <deletable>true</deletable>
+      <hash>RENAMED</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html</path>
+      <remark>
+      </remark>
+    </Folder>
+    <Folder Include="www\html\sample">
+      <type>dir</type>
+      <deletable>true</deletable>
+      <hash>RENAMED</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/html/sample</path>
+      <remark>
+      </remark>
     </Folder>
   </ItemGroup>
   <Target Name="Build" />
