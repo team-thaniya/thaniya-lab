@@ -33,7 +33,7 @@
     <Content Include="android\AndroidManifest.xml">
       <type>file</type>
       <deletable>False</deletable>
-      <hash>5513dde4</hash>
+      <hash>887360ab</hash>
       <icon>
       </icon>
       <mime>text/xml</mime>
@@ -42,8 +42,7 @@
       <path>/android/AndroidManifest.xml</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635876344913499049</lastModified>
     </Content>
     <Content Include="chrome\background.js">
       <type>file</type>
@@ -92,7 +91,7 @@
     <Content Include="ios\MonacaApp-Info.plist">
       <type>file</type>
       <deletable>False</deletable>
-      <hash>2106622a</hash>
+      <hash>a222c481</hash>
       <icon>
       </icon>
       <mime>text/xml</mime>
@@ -101,13 +100,12 @@
       <path>/ios/MonacaApp-Info.plist</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635876344912299047</lastModified>
     </Content>
     <Content Include="www\components\loader.css">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>1804bb9b</hash>
+      <hash>d4cf7391</hash>
       <icon>
       </icon>
       <mime>text/css</mime>
@@ -116,13 +114,12 @@
       <path>/www/components/loader.css</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635876344948199097</lastModified>
     </Content>
     <Content Include="www\components\loader.js">
       <type>file</type>
       <deletable>True</deletable>
-      <hash>e70132b4</hash>
+      <hash>f2c717cc</hash>
       <icon>
       </icon>
       <mime>text/javascript</mime>
@@ -131,8 +128,7 @@
       <path>/www/components/loader.js</path>
       <remark>
       </remark>
-      <lastModified>
-      </lastModified>
+      <lastModified>635876344946399095</lastModified>
     </Content>
     <Content Include="www\components\monaca-cordova-loader\.bower.json">
       <type>file</type>
@@ -219,6 +215,216 @@
       <os>
       </os>
       <path>/www/components/monaca-core-utils/monaca-core-utils.js</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\.bower.json">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>f99e3647</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/.bower.json</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\bower.json">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>9b52867f</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/bower.json</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\images\ajax-loader.gif">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>926aa883</hash>
+      <icon>
+      </icon>
+      <mime>image/gif</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images/ajax-loader.gif</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\images\icons-18-black.png">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>bd904b24</hash>
+      <icon>
+      </icon>
+      <mime>image/png</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images/icons-18-black.png</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\images\icons-18-white.png">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>bc4454eb</hash>
+      <icon>
+      </icon>
+      <mime>image/png</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images/icons-18-white.png</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\images\icons-36-black.png">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>1f3aa82c</hash>
+      <icon>
+      </icon>
+      <mime>image/png</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images/icons-36-black.png</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\images\icons-36-white.png">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>47c482e4</hash>
+      <icon>
+      </icon>
+      <mime>image/png</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images/icons-36-white.png</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\jquery.mobile.css">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>1f2ac382</hash>
+      <icon>
+      </icon>
+      <mime>text/css</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/jquery.mobile.css</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\jquery.mobile.structure.css">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>d44c801e</hash>
+      <icon>
+      </icon>
+      <mime>text/css</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/jquery.mobile.structure.css</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\css\jquery.mobile.theme.css">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>b95083e4</hash>
+      <icon>
+      </icon>
+      <mime>text/css</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/jquery.mobile.theme.css</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery-mobile\jquery.mobile.js">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>d9614496</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/jquery.mobile.js</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery\.bower.json">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>743520c6</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery/.bower.json</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery\bower.json">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>81c85c6e</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery/bower.json</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Content>
+    <Content Include="www\components\monaca-jquery\jquery.js">
+      <type>file</type>
+      <deletable>True</deletable>
+      <hash>605cbddb</hash>
+      <icon>
+      </icon>
+      <mime>text/javascript</mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery/jquery.js</path>
       <remark>
       </remark>
       <lastModified>
@@ -768,7 +974,7 @@
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>5cd11ed3</hash>
+      <hash>a069becb</hash>
       <icon>
       </icon>
       <mime>
@@ -778,7 +984,7 @@
       <path>/www/html/sample/navigator.html</path>
       <remark>
       </remark>
-      <lastModified>635867534466049473</lastModified>
+      <lastModified>635876344916399053</lastModified>
     </Content>
     <Content Include="www\html\sample\new_page.html">
       <SubType>Content</SubType>
@@ -848,7 +1054,7 @@
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>c4bef9ef</hash>
+      <hash>5961b7ee</hash>
       <icon>
       </icon>
       <mime>
@@ -858,7 +1064,7 @@
       <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635867587331403331</lastModified>
+      <lastModified>635876344915099051</lastModified>
     </Content>
     <Content Include="www\README.md">
       <type>file</type>
@@ -984,6 +1190,72 @@
       <os>
       </os>
       <path>/www/components/monaca-core-utils</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Folder>
+    <Folder Include="www\components\monaca-jquery">
+      <type>dir</type>
+      <deletable>True</deletable>
+      <hash>
+      </hash>
+      <icon>component</icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Folder>
+    <Folder Include="www\components\monaca-jquery-mobile">
+      <type>dir</type>
+      <deletable>True</deletable>
+      <hash>
+      </hash>
+      <icon>component</icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Folder>
+    <Folder Include="www\components\monaca-jquery-mobile\css">
+      <type>dir</type>
+      <deletable>True</deletable>
+      <hash>
+      </hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css</path>
+      <remark>
+      </remark>
+      <lastModified>
+      </lastModified>
+    </Folder>
+    <Folder Include="www\components\monaca-jquery-mobile\css\images">
+      <type>dir</type>
+      <deletable>True</deletable>
+      <hash>
+      </hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/components/monaca-jquery-mobile/css/images</path>
       <remark>
       </remark>
       <lastModified>
