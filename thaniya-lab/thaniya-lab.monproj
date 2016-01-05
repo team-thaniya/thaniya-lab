@@ -970,23 +970,39 @@
       <lastModified>
       </lastModified>
     </Content>
-    <Content Include="www\html\sample\navigator.html">
+    <Content Include="www\index.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
-      <hash>a069becb</hash>
+      <hash>57dc19f8</hash>
       <icon>
       </icon>
       <mime>
       </mime>
       <os>
       </os>
-      <path>/www/html/sample/navigator.html</path>
+      <path>/www/index.html</path>
       <remark>
       </remark>
-      <lastModified>635876344916399053</lastModified>
+      <lastModified>635876347435763911</lastModified>
     </Content>
-    <Content Include="www\html\sample\new_page.html">
+    <Content Include="www\navigator.html">
+      <SubType>Content</SubType>
+      <type>file</type>
+      <deletable>true</deletable>
+      <hash>5cd11ed3</hash>
+      <icon>
+      </icon>
+      <mime>
+      </mime>
+      <os>
+      </os>
+      <path>/www/navigator.html</path>
+      <remark>
+      </remark>
+      <lastModified>635876346907362719</lastModified>
+    </Content>
+    <Content Include="www\new_page.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
@@ -997,12 +1013,12 @@
       </mime>
       <os>
       </os>
-      <path>/www/html/sample/new_page.html</path>
+      <path>/www/new_page.html</path>
       <remark>
       </remark>
-      <lastModified>635867534466049473</lastModified>
+      <lastModified>635870669594575677</lastModified>
     </Content>
-    <Content Include="www\html\sample\page1.html">
+    <Content Include="www\page1.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
@@ -1013,12 +1029,12 @@
       </mime>
       <os>
       </os>
-      <path>/www/html/sample/page1.html</path>
+      <path>/www/page1.html</path>
       <remark>
       </remark>
-      <lastModified>635867534466059474</lastModified>
+      <lastModified>635870669594585677</lastModified>
     </Content>
-    <Content Include="www\html\sample\page2.html">
+    <Content Include="www\page2.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
@@ -1029,12 +1045,12 @@
       </mime>
       <os>
       </os>
-      <path>/www/html/sample/page2.html</path>
+      <path>/www/page2.html</path>
       <remark>
       </remark>
-      <lastModified>635867534466059474</lastModified>
+      <lastModified>635870669594585677</lastModified>
     </Content>
-    <Content Include="www\html\sample\page3.html">
+    <Content Include="www\page3.html">
       <SubType>Content</SubType>
       <type>file</type>
       <deletable>true</deletable>
@@ -1045,26 +1061,10 @@
       </mime>
       <os>
       </os>
-      <path>/www/html/sample/page3.html</path>
+      <path>/www/page3.html</path>
       <remark>
       </remark>
-      <lastModified>635867534466059474</lastModified>
-    </Content>
-    <Content Include="www\index.html">
-      <SubType>Content</SubType>
-      <type>file</type>
-      <deletable>true</deletable>
-      <hash>5961b7ee</hash>
-      <icon>
-      </icon>
-      <mime>
-      </mime>
-      <os>
-      </os>
-      <path>/www/index.html</path>
-      <remark>
-      </remark>
-      <lastModified>635876344915099051</lastModified>
+      <lastModified>635870669594585677</lastModified>
     </Content>
     <Content Include="www\README.md">
       <type>file</type>
@@ -1446,34 +1446,6 @@
       </remark>
       <lastModified>
       </lastModified>
-    </Folder>
-    <Folder Include="www\html">
-      <type>dir</type>
-      <deletable>true</deletable>
-      <hash>RENAMED</hash>
-      <icon>
-      </icon>
-      <mime>
-      </mime>
-      <os>
-      </os>
-      <path>/www/html</path>
-      <remark>
-      </remark>
-    </Folder>
-    <Folder Include="www\html\sample">
-      <type>dir</type>
-      <deletable>true</deletable>
-      <hash>RENAMED</hash>
-      <icon>
-      </icon>
-      <mime>
-      </mime>
-      <os>
-      </os>
-      <path>/www/html/sample</path>
-      <remark>
-      </remark>
     </Folder>
   </ItemGroup>
   <Target Name="Build" />
